@@ -1,2 +1,28 @@
-# ZooNutriWeb
-A estrutura desenvolvida com o propósito de fornecer elementos e funcionalidades essenciais para serem integrados às interfaces de usuário das aplicações. Esta parte do front-end disponibiliza recursos e endpoints fundamentais para garantir uma experiência fluida e eficiente para os usuários.
+# Zoonutri Backoffice (Web)
+
+> O Zoonutri Backoffice deseja auxiliar no gerenciamento de dados nutricionais dos animais, buscando ajudar as instituições que mantém animais por motivos de preservação, educação, pesquisa ou saúde. O sistema trará para o profissional responsável pela nutrição do animal a praticidade e eficácia em armazenar e manipular dados.
+
+> Desenvolver um aplicação que permita a responsáveis pela rotina alimentar de animais para gerenciá-la de maneira fácil, prática e ágil.
+
+## Autor:
+
+- Gustavo Luiz da Silva
+
+## Para rodar o projeto
+
+``` bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
+```
+
+Para mais detalhes de como as coisas funcionam, [Nuxt.js docs](https://nuxtjs.org).

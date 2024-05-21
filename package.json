@@ -1,0 +1,27 @@
+{
+  "name": "zoonutri-web",
+  "version": "1.0.0",
+  "description": "Zoonutri Backoffice - Um projeto que vai te ajudar a salvar animais!",
+  "author": "Gustavinn",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --hostname 0.0.0.0",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "node-sass": "^4.14.0",
+    "nuxt": "^2.0.0",
+    "nuxt-buefy": "^0.3.2",
+    "sass": "^1.69.7",
+    "sass-loader": "^8.0.2",
+    "scss": "^0.2.4",
+    "sweetalert2": "^9.14.3"
+  },
+  "devDependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
